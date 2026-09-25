@@ -8,7 +8,7 @@ for (const v of values) {
     }
 }
 
-console.log("hello" && "world"); // false
+console.log("hello" && "world");
 console.log("" || "fallback");
 console.log(null ?? "default");
 console.log(0 || "default");
